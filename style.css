@@ -1,0 +1,25 @@
+body {
+    background-color: black;
+    
+}
+
+h1 {
+    text-transform: uppercase;
+}
+
+img {
+    width: 100%;
+    border: 5px solid white;
+    border-radius: 30px;
+
+}
+
+.poster {
+    width: 50%;
+    margin-left: 25%;
+    margin-top: 50px;
+    font-family: "Libre Baskerville", serif;
+    color: white;
+    text-align: center;
+
+}
